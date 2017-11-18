@@ -2085,7 +2085,7 @@ msgid "Timeago|%s minutes remaining"
 msgstr "%s minuti rimanenti"
 
 msgid "Timeago|%s months ago"
-msgstr "%s minuti fa"
+msgstr "%s mesi fa"
 
 msgid "Timeago|%s months remaining"
 msgstr "%s mesi rimanenti"
